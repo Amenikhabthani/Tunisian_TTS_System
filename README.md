@@ -29,5 +29,12 @@ grad_accumulation_steps=1
 Max permitted audio size in seconds=11
 
 
+### Model repository 
+
+<!-- Provide the basic links for the model. -->
+
+- **link:** [(https://huggingface.co/amenIKh/Tunisian_TTS/settings)]
+
+
 
 
