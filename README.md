@@ -33,7 +33,7 @@ Max permitted audio size in seconds=11
 
 <!-- Provide the basic links for the model. -->
 
-- **link:** [(https://huggingface.co/amenIKh/Tunisian_TTS/settings)]
+- **link:** [(https://huggingface.co/amenIKh/Tunisian_TTS)]
 
 
 
